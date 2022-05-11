@@ -12,19 +12,19 @@ Please Give a ⭐ if you like this repo and also try following me for more best 
 ## Mapping
 [Deploy to Heroku 🗳](https://github.com/ganga227/TG-RENAMER-BOT#deploy-to-heroku-)
 
-[Bot Features 🔥](https://github.com/ganga227/TG-RENAMER-BOT#bot-features-)
+[Bot Features 🔥](https://github.com/Ns-Bots/TG-RENAMER-BOT#bot-features-)
 
-[Required Vars 💥](https://github.com/ganga227/TG-RENAMER-BOT#required-vars-)
+[Required Vars 💥](https://github.com/Ns-Bots/TG-RENAMER-BOT#required-vars-)
 
-[Optional Vars 💬](https://github.com/ganga227/TG-RENAMER-BOT#optional-vars-)
+[Optional Vars 💬](https://github.com/Ns-Bots/TG-RENAMER-BOT#optional-vars-)
 
-[Available Commands 🤖](https://github.com/ganga227/TG-RENAMER-BOT#available-commands-)
+[Available Commands 🤖](https://github.com/Ns-Bots/TG-RENAMER-BOT#available-commands-)
 
-[Dev 🧑‍💻](https://github.com/ganga227/TG-RENAMER-BOT#dev-)
+[Dev 🧑‍💻](https://github.com/Ns-Bots/TG-RENAMER-BOT#dev-)
 
-[TODO 🤧](https://github.com/ganga227/TG-RENAMER-BOT#todo-)
+[TODO 🤧](https://github.com/Ns-Bots/TG-RENAMER-BOT#todo-)
 
-[Thanks And Credits 🎉](https://github.com/ganga227/TG-RENAMER-BOT#thanks-and-credits-)
+[Thanks And Credits 🎉](https://github.com/Ns-Bots/TG-RENAMER-BOT#thanks-and-credits-)
 
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
